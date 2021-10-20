@@ -11,11 +11,6 @@ from openpyxl.worksheet.cell_range import CellRange
 from openpyxl.descriptors.serialisable import Serialisable
 import azutil
 
-
-
-
-
-
 server = input("Please enter server: ")
 database = input("Please enter db: ")
 username = azutil.username
